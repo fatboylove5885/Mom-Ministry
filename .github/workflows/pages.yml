@@ -1,3 +1,4 @@
+# Static HTML GitHub Pages deployment.
 name: Deploy ministry site to GitHub Pages
 
 on:
